@@ -14,4 +14,4 @@ gcc main.c Headers/cmdhelper.c Headers/kernel.c Headers/ppmio.c Headers/ppmmod.c
 ```
 
 ---
-To use the program you have to call it from the command with the arguments.
+To use the program, call it from the command line with the given arguments
